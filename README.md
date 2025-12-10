@@ -1,4 +1,4 @@
-This is a simple HTML project that will allow you to manually enter your monthly bills and generate a PDF file for tracking. 
+This is a simple HTML project that will allow you to manually enter your monthly expenses and generate a summary receipt.
 
 You can go to https://arseliealaine.github.io/mymonthlybilltracker/ to use it as is.
 
